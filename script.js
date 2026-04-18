@@ -7,7 +7,7 @@ function nextImage() {
         img.src = "sjcet nightview.jpeg";
         currentImage = 2;
     } else {
-        img.src = "https://github.com/cyril-p-jose/image-viewer/blob/main/sjcet%20daylight.jpeg";
+        img.src = "sjcet daylight.jpeg";
         currentImage = 1;
     }
 }
