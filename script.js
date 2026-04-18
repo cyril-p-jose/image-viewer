@@ -7,7 +7,7 @@ function nextImage() {
         img.src = "image2.jpg";
         currentImage = 2;
     } else {
-        img.src = "image1.jpg";
+        img.src = "https://github.com/cyril-p-jose/image-viewer/blob/main/sjcet%20daylight.jpeg";
         currentImage = 1;
     }
 }
